@@ -1,2 +1,4 @@
 # PixivDownloader
-Downloader for Pixiv
+Downloader for Pixiv using selenium
+
+Just start this for practice 
