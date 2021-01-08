@@ -1,0 +1,7 @@
+{
+    "downloadSetting": {
+        "downloadHere": "true",
+        "downloadLocation": ""
+    },
+    "namingStyle":"{task_order}_{id}_{page}"
+}
