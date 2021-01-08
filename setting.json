@@ -1,7 +1,38 @@
 {
-    "downloadSetting": {
-        "downloadHere": "true",
-        "downloadLocation": ""
+    "downloadHere": true,
+    "downloadLocation": "",
+    "downloadConfirm": true,
+    "namingStyle": "{task_order}_{id}_{page}",
+    "sort": {
+        "after": "1900-01-01",
+        "before": "2050-12-31",
+        "after_artworks_id": "0",
+        "before_artworks_id": "-1",
+        "min_like": "0",
+        "max_like": "-1",
+        "min_bookmark": "0",
+        "max_bookmark": "-1",
+        "min_view": "0",
+        "max_view": "-1"
     },
-    "namingStyle":"{task_order}_{id}_{page}"
+    "r18Mode": false,
+    "defaultSetting": {
+        "downloadHere": true,
+        "downloadLocation": "",
+        "downloadConfirm": true,
+        "namingStyle": "{task_order}_{id}_{page}",
+        "sort": {
+            "after": "1900-01-01",
+            "before": "2050-12-31",
+            "after_id": "0",
+            "before_id": "-1",
+            "min_like": "0",
+            "max_like": "-1",
+            "min_bookmark": "0",
+            "max_bookmark": "-1",
+            "min_view": "0",
+            "max_view": "-1"
+        },
+        "r18Mode": false
+    }
 }
