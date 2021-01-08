@@ -1,5 +1,4 @@
 {
-    "downloadHere": true,
     "downloadLocation": "",
     "downloadConfirm": true,
     "namingStyle": "{task_order}_{id}_{page}",
@@ -17,7 +16,6 @@
     },
     "r18Mode": false,
     "defaultSetting": {
-        "downloadHere": true,
         "downloadLocation": "",
         "downloadConfirm": true,
         "namingStyle": "{task_order}_{id}_{page}",
