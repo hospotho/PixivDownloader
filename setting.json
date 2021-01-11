@@ -3,34 +3,28 @@
     "downloadConfirm": true,
     "namingStyle": "{task_order}_{id}_{page}",
     "sort": {
+        "useSortSetting": false,
         "after_date": "1900-01-01",
         "before_date": "2050-12-31",
-        "after_artworks_id": 0,
-        "before_artworks_id": -1,
+        "after_id": 0,
+        "before_id": -1,
         "min_like": 0,
-        "max_like": -1,
         "min_bookmark": 0,
-        "max_bookmark": -1,
-        "min_view": 0,
-        "max_view": -1
+        "min_view": 0
     },
-    "r18Mode": false,
     "defaultSetting": {
         "downloadLocation": "",
         "downloadConfirm": true,
         "namingStyle": "{task_order}_{id}_{page}",
         "sort": {
+            "useSortSetting": false,
             "after_date": "1900-01-01",
             "before_date": "2050-12-31",
             "after_id": 0,
             "before_id": -1,
             "min_like": 0,
-            "max_like": -1,
             "min_bookmark": 0,
-            "max_bookmark": -1,
-            "min_view": 0,
-            "max_view": -1
-        },
-        "r18Mode": false
+            "min_view": 0
+        }
     }
 }
